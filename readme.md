@@ -6,7 +6,7 @@ https://api.geekai.pro/v1
 
 
 ##  github url
-https://github.com/WHUhuangke/AITraveler
+https://github.com/yanyanyyy720/LLM2
 
 
 ### 安装步骤  
